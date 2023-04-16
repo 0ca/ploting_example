@@ -1,0 +1,10 @@
+[2023-04-16 00:03:24] 64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=45.607 ms
+[2023-04-16 00:03:25] 64 bytes from 8.8.8.8: icmp_seq=1 ttl=117 time=23.141 ms
+[2023-04-16 00:03:26] 64 bytes from 8.8.8.8: icmp_seq=2 ttl=117 time=22.251 ms
+[2023-04-16 00:03:27] 64 bytes from 8.8.8.8: icmp_seq=3 ttl=117 time=24.374 ms
+[2023-04-16 00:03:28] 64 bytes from 8.8.8.8: icmp_seq=4 ttl=117 time=30.306 ms
+[2023-04-16 00:03:29] 64 bytes from 8.8.8.8: icmp_seq=5 ttl=117 time=25.791 ms
+[2023-04-16 00:03:30] 64 bytes from 8.8.8.8: icmp_seq=6 ttl=117 time=21.017 ms
+[2023-04-16 00:03:31] 64 bytes from 8.8.8.8: icmp_seq=7 ttl=117 time=26.093 ms
+[2023-04-16 00:03:32] 64 bytes from 8.8.8.8: icmp_seq=8 ttl=117 time=20.991 ms
+[2023-04-16 00:03:33] 64 bytes from 8.8.8.8: icmp_seq=9 ttl=117 time=24.890 ms
